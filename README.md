@@ -1,0 +1,2 @@
+# hellbot
+Helldiver Discord Bot
