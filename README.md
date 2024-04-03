@@ -1,2 +1,2 @@
 # hellbot
-Helldiver Discord Bot
+Helldivers 2 Discord Bot

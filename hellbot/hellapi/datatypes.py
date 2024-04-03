@@ -16,3 +16,12 @@ class WarDetails:
     activeElectionPolicyEffects: str
     globalEvents: str
     superEarthWarResults: str
+
+
+@dataclass
+class PlanetDetails:
+    planetId: int
+    name: str
+    sector: str
+    biome: str | None
+    environmentals: list
